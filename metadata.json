@@ -1,0 +1,6 @@
+{
+  "name": "Clash of Champions: IPS Arena",
+  "description": "Website game quiz edukasi interaktif IPS bertema Perubahan Iklim bergaya turnamen esports fantasy card arena untuk guru dan peserta didik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
